@@ -1,0 +1,14 @@
+==> https://arcgis2.minenergia.cl/portal/apps/webappviewer/index.html?id=9af6d41356bf4b54b5dab6416edbdb23
+https://www.enap.cl/
+http://gasdered.cne.cl/
+http://www.geoportal.cl/geoportal/catalog/main/home.page
+https://www.bcn.cl/siit/mapas_vectoriales/index_html
+https://www.agnchile.cl/quienes-somos/sobre-agn/#:~:text=Metrogas%2C%20es%20la%20mayor%20distribuidora,y%20Los%20Lagos%20(industrial).
+http://www.gascoeduca.cl/Maqueta/gas_04.html#:~:text=En%20Chile%20s%C3%B3lo%20se%20han,el%20combustible%20en%20esa%20zona.
+https://www.gascomagallanes.cl/alcance-y-red-de-distribucion/
+https://repositorio.uchile.cl/bitstream/handle/2250/167793/Carvajal%20Ayala%20Francisco.pdf?sequence=2
+
+
+Datum> SRC: EPSG:32719 - WGS 84 / UTM zone 19S - Projetado
+
+
